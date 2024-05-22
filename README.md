@@ -1,6 +1,6 @@
 # Car-Sales-Analysis-Dashboard
 
-![1](https://github.com/Manish7272/Car-Sales-Analysis-Dashboard/assets/71213166/4a74ed06-5f91-482d-8e4c-cc486d0a1fa9)
+![1](https://github.com/Manish7272/Car-Sales-Analysis-Dashboard/assets/71213166/d6f442de-3758-4095-9954-7c88527f7571)
 ![1 1](https://github.com/Manish7272/Car-Sales-Analysis-Dashboard/assets/71213166/2ba6c4e5-acab-451e-ad11-2cf503fef74e)
 
 ![2](https://github.com/Manish7272/Car-Sales-Analysis-Dashboard/assets/71213166/29451027-6cf7-4770-bd6b-f38716ef3bfb)
